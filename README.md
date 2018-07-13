@@ -6,7 +6,7 @@ University - University of Texas at San Antonio, USA
 
 Program- Master
 
-**Group Project on Software Requirements Specification (SRS) of a Patient Portal**
+## Group Project on Software Requirements Specification (SRS) of a Patient Portal
 
 • An introduction of the Patient Portal SRS
 
@@ -26,7 +26,7 @@ Program- Master
 
 • Backlog to contain all the use case (stories). Brief description of each story and assignment of story points to each story.
 
-My Contribution in -
+### My Contribution in -
 1. General Description
 
 2. Functional Requirements - Use Case Diagrams, Class Diagrams, Sequence Diagrams, **User Interface requirements**.
