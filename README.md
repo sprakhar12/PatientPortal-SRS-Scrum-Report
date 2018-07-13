@@ -6,7 +6,7 @@ University - University of Texas at San Antonio, USA
 
 Program- Master
 
-Group Project on Software Requirements Specification (SRS) of a Patient Portal
+**Group Project on Software Requirements Specification (SRS) of a Patient Portal**
 
 • An introduction of the Patient Portal SRS
 
