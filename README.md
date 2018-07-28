@@ -29,7 +29,7 @@ Program- Master
 ### My Contribution in -
 1. General Description
 
-2. Functional Requirements - Use Case Diagrams, Class Diagrams, Sequence Diagrams, **User Interface requirements**.
+2. Functional Requirements - Use Case Diagrams, Class Diagrams, Sequence Diagrams, User Interface requirements.
 
 3. Non-functional requirements
 
