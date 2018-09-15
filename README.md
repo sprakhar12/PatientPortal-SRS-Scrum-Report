@@ -4,7 +4,7 @@ Concentration - Software Engineering
 
 Team Members - 4
 
-#### Group Project on Software Requirements Specification (SRS) of a Patient Portal using Agile software development Scrum methodology
+### Group Project on Software Requirements Specification (SRS) of a Patient Portal using Agile software development Scrum methodology
 
 • An introduction of the Patient Portal SRS
 
