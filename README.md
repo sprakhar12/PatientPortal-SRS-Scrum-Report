@@ -1,14 +1,10 @@
 # PatientPortal_SRS_Reports
 
-Subject - Software Engineering
-
-University - University of Texas at San Antonio, USA
-
-Program- Master
+Concentration - Software Engineering
 
 Team Members - 4
 
-## Group Project on Software Requirements Specification (SRS) of a Patient Portal using SCRUM method
+## Group Project on Software Requirements Specification (SRS) of a Patient Portal using SCRUM methodology
 
 • An introduction of the Patient Portal SRS
 
