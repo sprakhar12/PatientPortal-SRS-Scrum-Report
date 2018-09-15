@@ -6,6 +6,8 @@ University - University of Texas at San Antonio, USA
 
 Program- Master
 
+Team Members - 4
+
 ## Group Project on Software Requirements Specification (SRS) of a Patient Portal using SCRUM method
 
 • An introduction of the Patient Portal SRS
@@ -27,10 +29,10 @@ Program- Master
 • Backlog to contain all the use case (stories). Brief description of each story and assignment of story points to each story.
 
 ### My Contribution in -
-1. General Description
+1. General Description - (75%)
 
-2. Functional Requirements - Use Case Diagrams, Class Diagrams, Sequence Diagrams, User Interface requirements.
+2. Functional Requirements - Use Case Diagrams (50%), Class Diagrams (25%), Sequence Diagrams (25%), User Interface requirements (100%).
 
-3. Non-functional requirements
+3. Non-functional requirements - (25%)
 
-4. Backlog
+4. Backlog - (25%)
