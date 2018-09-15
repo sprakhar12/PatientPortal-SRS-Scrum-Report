@@ -1,10 +1,10 @@
-# PatientPortal_SRS_Reports
+# PatientPortal Software Requirements Specification Report
 
 Concentration - Software Engineering
 
 Team Members - 4
 
-## Group Project on Software Requirements Specification (SRS) of a Patient Portal using SCRUM methodology
+#### Group Project on Software Requirements Specification (SRS) of a Patient Portal using Agile software development Scrum methodology
 
 • An introduction of the Patient Portal SRS
 
